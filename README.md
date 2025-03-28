@@ -71,6 +71,7 @@ To update vehicle data from NHTSA API:
 ```bash
 python NHTSA_Vehicles_API.py
 ```
+This module was not used in the main program, but was kept for future use.
 
 ## Example Output
 
